@@ -1,51 +1,103 @@
 <p align="center">
-  <a href="https://github.com/AleksVervol">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=762&text=Hi%2C%20I'm%20Oleksandra%20%F0%9F%91%BB" alt="Hi, I&#39;m Oleksandra 👻" />
-  </a>
+  <img src="github-banner.png" width="100%" alt="Oleksandra Horbach — Payments × Data Analytics">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Turning%20operational%20problems%20into%20questions%20that%20data%20can%20answer.;%F0%9F%8C%B8%20Fintech%20%C2%B7%20Payments%20%C2%B7%20Risk%20%C2%B7%20Reconciliation%20%C2%B7%20Analytics%20%F0%9F%8C%B8" alt="Typing headlines" />
-</p>
+<div align="center">
 
-### 🚀 About Me
+### Payments Operations × Data Analytics
 
-I spent 5 years working in fintech and payment operations, across reconciliation, fraud monitoring, AML/KYC and PSP integrations.  
-Now I'm bringing that operational experience into data analytics — using data to understand where processes fail, where risk appears, and what can be improved.  
-Currently working with:  
-Python · SQL · Tableau · dbt · DuckDB · Excel
+*Turning operational problems into questions that data can answer.*
 
-🔭 &nbsp;I'm currently working on **Stablecoin Settlement Resilience — settlement risk analysis around crypto price shocks**  
-🌱 &nbsp;I'm currently learning **SQL · Python · Tableau · Data Analytics**  
-💬 &nbsp;Ask me about **Payments · Reconciliation · Fintech Operations · Transaction Risk**  
-⚡ &nbsp;Fun fact: **I get suspicious when the data confirms my assumptions too easily. 😄**
+🌸 Fintech · Payments · Risk · Reconciliation · Data Analytics 🌸
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-</p>
-
-### 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/oleksandra-h/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://public.tableau.com/app/profile/oleksandra.horbach/vizzes"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=AleksVervol&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+</div>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/AleksVervol">AleksVervol</a></i></p>
+
+## ✦ About me
+
+I spent 5 years working in **fintech and payment operations**, across reconciliation, fraud monitoring, AML/KYC and PSP integrations.
+
+Now I'm bringing that operational experience into **data analytics** — using data to understand where processes fail, where risk appears, and what can be improved.
+
+- 🔭 Currently working on **Stablecoin Settlement Resilience** — analysing settlement exposure during crypto price shocks
+- 🌱 Currently learning **SQL · Python · Tableau · Data Analytics**
+- 💬 Ask me about **Payments · Reconciliation · Fintech Operations · Transaction Risk**
+- ⚡ Fun fact: *I get suspicious when the data confirms my assumptions too easily.* 😄
+
+---
+
+## ✦ Tech stack
+
+**Analytics & Data**
+
+![Python](https://img.shields.io/badge/Python-E8AFC7?style=flat-square&logo=python&logoColor=333333)
+![SQL](https://img.shields.io/badge/SQL-D99AB5?style=flat-square&logo=postgresql&logoColor=333333)
+![pandas](https://img.shields.io/badge/pandas-F2CADB?style=flat-square&logo=pandas&logoColor=333333)
+![NumPy](https://img.shields.io/badge/NumPy-E8AFC7?style=flat-square&logo=numpy&logoColor=333333)
+![Tableau](https://img.shields.io/badge/Tableau-D99AB5?style=flat-square&logo=tableau&logoColor=333333)
+![Excel](https://img.shields.io/badge/Excel-F2CADB?style=flat-square&logo=microsoftexcel&logoColor=333333)
+
+**Tools**
+
+![dbt](https://img.shields.io/badge/dbt-E8AFC7?style=flat-square&logo=dbt&logoColor=333333)
+![DuckDB](https://img.shields.io/badge/DuckDB-F2CADB?style=flat-square&logo=duckdb&logoColor=333333)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-D99AB5?style=flat-square&logo=postgresql&logoColor=333333)
+![Git](https://img.shields.io/badge/Git-E8AFC7?style=flat-square&logo=git&logoColor=333333)
+![GitHub](https://img.shields.io/badge/GitHub-F2CADB?style=flat-square&logo=github&logoColor=333333)
+![Jira](https://img.shields.io/badge/Jira-D99AB5?style=flat-square&logo=jira&logoColor=333333)
+
+---
+
+## ✦ Selected work
+
+### 💳 Reconciliation Toolkit
+
+**Operational analytics for reconciliation & transaction risk monitoring**
+
+A data pipeline built around a practical operations question:  
+**Which transactions and reconciliation exceptions require attention first?**
+
+The project combines reconciliation checks with rule-based transaction risk monitoring to identify exceptions, prioritise reviews and turn operational data into actionable insights.
+
+`Python` · `SQL` · `dbt` · `DuckDB` · `Tableau`
+
+→ **[Explore the project](https://github.com/AleksVervol/reconciliation_toolkit)**
+
+---
+
+### 🪙 Stablecoin Settlement Resilience
+
+**Settlement exposure during crypto market shocks**
+
+Exploring how cryptocurrency price shocks and settlement timing can affect financial exposure in payment operations.
+
+The project connects market volatility with a practical operational question:  
+**What can happen to the value of funds while money is waiting to settle?**
+
+`Python` · `SQL` · `Data Analysis`
+
+→ **[Explore the project](https://github.com/AleksVervol/stablecoin_settlement_resilience)**
+
+---
+
+## ✦ What I care about
+
+💳 **Payments & Fintech** — understanding how money moves  
+🔍 **Reconciliation & Risk** — finding what doesn't match and why  
+📊 **Operational Analytics** — turning data into decisions  
+⚙️ **Process Improvement** — using evidence instead of assumptions  
+
+---
+
+<div align="center">
+
+### ✦ Find me elsewhere
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [Tableau Public](https://public.tableau.com/app/profile/oleksandra.horbach/vizzes)
+
+<br>
+
+*payments · data · tiny bit of chaos* 👻
+
+</div>
