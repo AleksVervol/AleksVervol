@@ -94,7 +94,7 @@ The project connects market volatility with a practical operational question:
 
 ### ✦ Find me elsewhere
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Tableau Public](https://public.tableau.com/app/profile/oleksandra.horbach/vizzes)
+[LinkedIn](https://www.linkedin.com/in/oleksandra-h/) · [Tableau Public](https://public.tableau.com/app/profile/oleksandra.horbach/vizzes)
 
 <br>
 
