@@ -3,13 +3,6 @@
 </p>
 <div align="center">
 
-### Payments Operations × Data Analytics
-
-<i>Turning operational problems into questions that data can answer.</i>
-
-🌸 Fintech · Payments · Risk · Reconciliation · Data Analytics 🌸
-
-</div>
 <br>
 <p align="center">
   <img src="about-me.png" width="100%" alt="About Oleksandra Horbach">
@@ -39,7 +32,7 @@
 
 <br>
 
-## ✦ Selected work
+<h2 align="center">✦ Selected work</h2>
 
 <table>
 <tr>
@@ -49,16 +42,6 @@
 
 **Operational analytics for reconciliation & transaction risk monitoring**
 
-A data pipeline designed to identify reconciliation exceptions, prioritise transaction reviews and turn operational data into actionable insights.
-
-`Python` `SQL` `dbt` `DuckDB` `Tableau`
-
-<br>
-
-<a href="https://github.com/AleksVervol/reconciliation_toolkit">
-<b>Explore the project →</b>
-</a>
-
 </td>
 
 <td width="50%" valign="top">
@@ -67,59 +50,64 @@ A data pipeline designed to identify reconciliation exceptions, prioritise trans
 
 **Settlement exposure during crypto market shocks**
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+A data pipeline designed to identify reconciliation exceptions, prioritise transaction reviews and turn operational data into actionable insights.
+
+</td>
+
+<td width="50%" valign="top">
+
 Exploring how crypto price shocks and settlement timing can affect financial exposure in payment operations.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+`Python` `SQL` `dbt` `DuckDB` `Tableau`
+
+</td>
+
+<td width="50%" valign="top">
 
 `Python` `SQL` `Data Analysis`
 
-<br>
+</td>
+</tr>
 
-<a href="https://github.com/AleksVervol/stablecoin_settlement_resilience">
-<b>Explore the project →</b>
-</a>
+<tr>
+<td width="50%" valign="bottom">
+
+**[Explore the project →](https://github.com/AleksVervol/reconciliation_toolkit)**
+
+</td>
+
+<td width="50%" valign="bottom">
+
+**[Explore the project →](https://github.com/AleksVervol/stablecoin_settlement_resilience)**
 
 </td>
 </tr>
 </table>
 
-<br>
+<h2 align="center">✦ What I care about</h2>
 
-## ✦ What I care about
-
-<table>
-<tr>
-<td width="50%">
-
-💳 **Payments & Fintech**  
-Understanding how money moves
-
-</td>
-<td width="50%">
-
-🔍 **Reconciliation & Risk**  
-Finding what doesn't match — and why
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-📊 **Operational Analytics**  
-Turning operational data into decisions
-
-</td>
-<td width="50%">
-
-⚙️ **Process Improvement**  
-Using evidence instead of assumptions
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
+<p align="left">
+  💳 <b>Payments & Fintech</b> — Understanding how money moves
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  🔍 <b>Reconciliation & Risk</b> — Finding mismatches and their causes
+</p>
+<p align="right">
+  📊 <b>Operational Analytics</b> — Turning data into decisions
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  ⚙️ <b>Process Improvement</b> — Using evidence over assumptions
+</p>
 
 ## ✦ Let's connect
 
@@ -132,7 +120,4 @@ Using evidence instead of assumptions
 </a>
 
 <br><br>
-
-<i>payments · data · tiny bit of chaos</i> 👻 🌸
-
 </div>
