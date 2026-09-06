@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Oleksandra Horbach — Payments × Data Analytics">
+</p>
+
 <div align="center">
 
 # Hi, I'm Oleksandra 👻
